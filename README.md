@@ -25,7 +25,7 @@ Questo progetto analizza la relazione tra il livello di istruzione e il rischio 
 ## 📂 Struttura della Repository
 * `/data`: (Nota: i dati grezzi ISTAT FSS non sono inclusi per motivi di licenza).
 * `/scripts`: Contiene lo script Stata (`.do`) per la pulizia dei dati, la costruzione delle variabili e la stima dei modelli.
-* `/report`: Report finale in formato PDF/Docx con analisi dettagliata e riferimenti bibliografici.
+* `/report`: Report finale in formato Docx.
 * `/presentation`: Slide della presentazione dei risultati.
 
 ## 🛠 Requisiti software
